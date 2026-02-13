@@ -9,7 +9,7 @@ It also provides **Grad-CAM visualizations** to explain model predictions throug
 ## 📌 Project Overview
 
 Brain tumor detection from MRI scans is a complex and time-sensitive task.  
-This project demonstrates how deep learning can assist in **automated brain tumor classification** while maintaining **model transparency** using Grad-CAM.
+This project demonstrates how deep learning can assist in **automated brain tumor classification** 
 
 The system is designed for **educational and research purposes** and showcases end-to-end AI development:
 data preprocessing → model training → evaluation → explainability → deployment.
