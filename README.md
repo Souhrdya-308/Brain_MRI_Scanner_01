@@ -57,20 +57,7 @@ data preprocessing → model training → evaluation → explainability → depl
 
 ---
 
-## 🖥️ Web Application UI
 
-### Upload MRI Image
-![Upload UI](images/upload_ui.png)
-
-### Prediction & Confidence Breakdown
-![Prediction UI](images/prediction_ui.png)
-
-### Grad-CAM Output
-![Grad-CAM UI](images/gradcam_ui.png)
-
-*(Replace `images/*.png` with your actual screenshot paths)*
-
----
 
 ## 📂 Dataset
 
